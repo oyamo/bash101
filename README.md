@@ -2,7 +2,7 @@
 # This is my Learning Journey of BASH
 ## What is Bash?
 
-Bash is a Unix shell / Command Language Written By Brian FOX. Bash Script Files Usuallyb have the <b>*.sh</b> extension. To become a power user, you need to have knowlegde about bash scripting language
+Bash is a Unix shell / Command Language Written By Brian FOX. Bash Script Files Usually have the <b>*.sh</b> extension. To become a power user, you need to have knowlegde about bash scripting language
 
 If you do not have a Linux/Unix Image, you can use an online bash interpreter
 For exam-ple, [Repl.it , an Online Bash compiler, Online Bash IDE, and online Bash,](https://repl.it/languages/bash) lets you create, run and even share your bash scripts online. Its main disadvantage is that its functionallity is basic. Anyway it is awesomee
