@@ -2,8 +2,9 @@
 # This is my Learning Journey of BASH
 ## What is Bash?
 
-Bash is a Unix shell / Command Language Written By Brian FOX. Bash Script Files Usuallyb have the <b>*.sh</b> extension
-To become a power user, you need to have knowlegde about bash scripting language
+Bash is a Unix shell / Command Language Written By Brian FOX. Bash Script Files Usuallyb have the <b>*.sh</b> extension. To become a power user, you need to have knowlegde about bash scripting language
+
+
 Did you know that bash stands for <b>Bourne Again Shell? 😊</b> 
  ## Running bash scripts
  
