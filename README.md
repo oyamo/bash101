@@ -29,7 +29,7 @@ echo Hello World
 Then to run the file in your console you will just type the path to the file name and concatenate with the filename
 eg ```oyamoh-brian@localhost : ~$ ./Desktop/hello.sh```
 
-## Permissions to run your Commands
+## Permissions to run your Scripts
 After creating your script file, you need to let your UNIX/LINUX system know that it is an executable file
 thus you need to run the following command
 ```oyamoh-brian@localhost : ~$ sudo chmod u+x /path/script.sh```(replace path with the path to your file and script.sh withy your file name)
