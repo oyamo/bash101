@@ -1,3 +1,4 @@
+#!/bin/bash
 # every language that i know of have comments
 # to write comments in bash programming, you have to start with # symbol
 # eg
