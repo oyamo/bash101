@@ -11,7 +11,7 @@ Did you know that bash stands for <b>Bourne Again Shell? 😊</b>
 You can run bash in your console by just typing commands and hitting *RETURN* 
 eg 
 ```bash
-oyamoh-brian@localhost : ~$ echo hello World
+oyamoh-brian@localhost : ~$ echo Hello World
 Hello World
 oyamoh-brian@localhost : ~$
 ```
@@ -20,7 +20,7 @@ You can create a sh file using your prefered editor eg **vim, nano or sublime-te
 Make sure to save your file using a .sh extension
 eg 
 ```bash
-echo Hellow World
+echo Hello World
 ```
 Then to run the file in your console you will just type the path to the file name and concatenate with the filename
 eg ```oyamoh-brian@localhost : ~$ ./Desktop/hello.sh```
