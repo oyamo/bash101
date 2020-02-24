@@ -6,3 +6,7 @@ greeting="Hello World"
 # to access the variable use $var-name
 
 echo $greeting
+
+me=$(whoami)
+
+echo $greeting $me
