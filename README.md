@@ -5,7 +5,7 @@
 Bash is a Unix shell / Command Language Written By Brian FOX. Bash Script Files Usuallyb have the <b>*.sh</b> extension. To become a power user, you need to have knowlegde about bash scripting language
 
 If you do not have a Linux/Unix Image, you can use an online bash interpreter
-For exam-ple, [Repl.it Online Bash compiler, Online Bash IDE, and online Bash](https://repl.it/languages/bash) lets you create, run and even share your bash scripts online. Its main disadvantage is that is
+For exam-ple, [Repl.it , an Online Bash compiler, Online Bash IDE, and online Bash,](https://repl.it/languages/bash) lets you create, run and even share your bash scripts online. Its main disadvantage is that its functionallity is basic. Anyway it is awesomee
 
 Did you know that bash stands for <b>Bourne Again Shell? 😊</b> 
 
@@ -36,7 +36,7 @@ thus you need to run the following command
 Thus you can now run your script effecientl7y
 #### Summary on how to change permissions and run(This is a simple terminal session)
 ```bash
-oyamoh-brian@localhost : ~$ chmod u+x ./Desktop/hello.sh
+oyamoh-brian@localhost : ~$sudo chmod u+x ./Desktop/hello.sh
 oyamoh-brian@localhost : ~$ ./Desktop/hello.sh
 Hello World
 oyamoh-brian@localhost : ~$
