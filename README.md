@@ -1,4 +1,4 @@
-# bash101
+# bash0x101
 # This is my Learning Journey of BASH
 ## What is Bash?
 
