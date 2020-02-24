@@ -33,7 +33,7 @@ eg ```oyamoh-brian@localhost : ~$ ./Desktop/hello.sh```
 After creating your script file, you need to let your UNIX/LINUX system know that it is an executable file
 thus you need to run the following command
 ```oyamoh-brian@localhost : ~$ sudo chmod u+x /path/script.sh```(replace path with the path to your file and script.sh withy your file name)
-Thus you can now run your script effecientl7y
+Thus you can now run your script effeciently
 #### Summary on how to change permissions and run(This is a simple terminal session)
 ```bash
 oyamoh-brian@localhost : ~$sudo chmod u+x ./Desktop/hello.sh
